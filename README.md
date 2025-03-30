@@ -14,31 +14,43 @@ Questo spazio nasce per cambiare le regole del gioco: un’unica piattaforma dov
 
 Il viaggio verso l’indipendenza inizia qui. Sei pronto a costruire il tuo mondo? 🚀
 
-🐈‍⬛ Risorse per orientarsi
-Risorse per disorientati in cerca della prorpia via verso la sovranità individuale
 
-Awesome Privacy is a collection of privacy-respecting services and tools. The aim is to help you escape big tech, and choose software that respects your privacy.
-Why? Because privacy is a fundamental human right; without it, we're just open books in a world where everyone's watching. Let's take control back.
+🔒 Proteggi la tua privacy
 
-Your guide to finding and comparing privacy-respecting alternatives to popular software and services.
+🎯 Qui un elenco siti dove puoi trovare tools e software che proteggono la tua privacy mentre navighi, comunichi, salvi i tuoi dati, giochi o lavori.
 
-https://awesome-privacy.xyz/
+Un mix di strumenti pratici ed allo stesso tempo risorse teoriche a cui attingere per accrescere la tua consapevolezza
 
+Legenda
 
-Privacy Tools Guide: Website for Encrypted Software & Apps
-You are being watched. Private and state-sponsored organizations are monitoring and recording your online activities. PrivacyTools.io provides services, tools and privacy guides to counter global mass surveillance. Established in 2015 after Edward Snowden's revelations, and is now the most popular privacy website.
+Difficoltà 🧠 (1-5)
 
-https://www.privacytools.io/
+Paranoia 🕶 (1-5)
 
-https://alternativeto.net/
+Lingua 🇮🇹 🇬🇧 🇫🇷
+
+Tools  🛠  Approfondimenti 🔍
+
+https://awesome-privacy.xyz/  🛠  🧠🧠 🇬🇧
+Una guida dove trovare e comparare software e servizi privacy focused alternativi ai più diffudi e centralizzati
+ 
+https://www.privacytools.io/ 🛠  🔍 🧠🧠 🇬🇧
+PrivacyTools.io fornisce servizi, strumenti e guide sulla privacy per contrastare la sorveglianza di massa globale
+
+https://alternativeto.net/ 
 
 https://github.com/ffffffff0x/Digital-Privacy
 
-https://thenewoil.org/en/
+https://www.privacyguides.org/it/ 🛠  🔍 🧠🧠 🇬🇧 🇮🇹
 
-https://www.privacyguides.org/it/
+https://thenewoil.org/en/ 
 
-https://digidati.art/
 
-https://www.lealternative.net/
+🐈‍⬛ Risorse per orientarsi
+Risorse per disorientati in cerca della prorpia via verso la sovranità individuale
+
+
+https://digidati.art/  🛠  🔍 🧠🧠 🇬🇧 🇮🇹
+
+https://www.lealternative.net/ 🛠  🔍 🧠🧠 🇬🇧 🇮🇹
 
