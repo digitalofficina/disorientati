@@ -1,7 +1,7 @@
 # disorientati
 Risorse per disorientati in cerca della prorpia via verso la sovranità individuale
 
-Risorse per orientarsi
+🐈‍⬛ Risorse per orientarsi
 
 Awesome Privacy is a collection of privacy-respecting services and tools. The aim is to help you escape big tech, and choose software that respects your privacy.
 Why? Because privacy is a fundamental human right; without it, we're just open books in a world where everyone's watching. Let's take control back.
