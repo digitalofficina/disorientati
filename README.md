@@ -7,7 +7,9 @@ In un mondo sempre più centralizzato, la vera libertà inizia dal controllo: de
 Questo spazio nasce per cambiare le regole del gioco: un’unica piattaforma dove raccogliamo e organizziamo le migliori risorse per chi vuole sottrarsi al controllo e costruire un sistema davvero libertario.
 
 🔒 Proteggi la tua privacy e naviga senza catene.
+
 💰 Gestisci il tuo denaro senza intermediari.
+
 🔥 Libera il tuo futuro con strumenti concreti.
 
 Il viaggio verso l’indipendenza inizia qui. Sei pronto a costruire il tuo mondo? 🚀
