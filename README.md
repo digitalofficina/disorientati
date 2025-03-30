@@ -8,7 +8,6 @@ Why? Because privacy is a fundamental human right; without it, we're just open b
 
 https://awesome-privacy.xyz/
 
-https://awesome-privacy.as93.net/#/?id=intro
 
 Privacy Tools Guide: Website for Encrypted Software & Apps
 You are being watched. Private and state-sponsored organizations are monitoring and recording your online activities. PrivacyTools.io provides services, tools and privacy guides to counter global mass surveillance. Established in 2015 after Edward Snowden's revelations, and is now the most popular privacy website.
