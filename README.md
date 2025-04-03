@@ -50,7 +50,8 @@ Una serie di tools e consigli per proteggere la propria privacy online e offline
 https://www.privacyguides.org/it/ 🛠  🔍 🧠🧠 🇬🇧 🇮🇹
 Progetto no profit gestito da volontari, trovi notizie e raccomandazioni in tema privacy e sicurezza digitale
 
-https://thenewoil.org/en/ 
+https://thenewoil.org/en/  🛠 🔍 🧠 🇬🇧
+Questo sito è rivolto a persone che sono nuove alla privacy e/o non si considerano “tecnologiche”. Questo sito è progettato per esaminare le basi di varie idee, argomenti e concetti per aiutare i lettori a sentirsi istruiti e in grado di prendere decisioni giuste per loro senza andare troppo in profondità al punto che si sentono sopraffatti guide
 
 
 🐈‍⬛ Risorse per orientarsi
