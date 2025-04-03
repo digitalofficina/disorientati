@@ -1,4 +1,5 @@
 # disorientati
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🚀 Riprenditi la Tua Libertà: Privacy, Finanza, Indipendenza 🏴
 
@@ -63,3 +64,6 @@ Br1S
 🐈‍⬛ Risorse per orientarsi
 Risorse per disorientati in cerca della prorpia via verso la sovranità individuale
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+💰 Gestisci il tuo denaro senza intermediari.
