@@ -1,69 +1,11 @@
 # disorientati
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# 🚀 Riprenditi la Tua Libertà: Privacy, Finanza, Indipendenza 🏴
+## 🚀 Riprenditi la Tua Libertà: Privacy, Finanza, Indipendenza 🏴
 
 In un mondo sempre più centralizzato, la vera libertà inizia dal controllo: della tua privacy, delle tue finanze, della tua vita. Ma le informazioni sono sparse, frammentate, difficili da trovare.
 
 Questo spazio nasce per cambiare le regole del gioco: un’unica piattaforma dove raccogliamo e organizziamo le migliori risorse per chi vuole sottrarsi al controllo e costruire un sistema davvero libertario.
-
-# Benvenuto nel Progetto
-
-## Sommario
-1. [Proteggi la tua privacy e naviga senza catene](#proteggi-la-tua-privacy-e-naviga-senza-catene)
-2. [Gestisci il tuo denaro senza intermediari](#gestisci-il-tuo-denaro-senza-intermediari)
-3. [Libera il tuo futuro con strumenti concreti](#libera-il-tuo-futuro-con-strumenti-concreti)
-
----
-
-## Proteggi la tua privacy e naviga senza catene
-... La privacy è il potere di rivelarsi selettivamente al mondo. (Eric Hughes - A Cypherpunk's Manifesto) 
-
-Le persone vogliono la privacy perchè è un loro diritto, non perchè stanno nascondendo qualcosa. Non dovrebbero aver bisogno di giustificarsi e questa scelta dovrebbe essere rispettata.
-
-🎯 Qui un elenco siti dove puoi trovare tools e software che proteggono la tua privacy mentre navighi, comunichi, salvi i tuoi dati, giochi o lavori.
-
-Un mix di strumenti pratici ed allo stesso tempo risorse teoriche a cui attingere per accrescere la tua consapevolezza
-
-Legenda
-
-Difficoltà 🧠 (1-5)
-
-Livello Cypherpunk 🕶 (1-5)
-
-Lingua 🇮🇹 🇬🇧 🇫🇷
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Gestisci il tuo denaro senza intermediari
-Spiega come gestire criptovalute, investimenti decentralizzati, o strumenti finanziari indipendenti.
-
-## Libera il tuo futuro con strumenti concreti
-Offri soluzioni pratiche per l'autonomia digitale ed economica.
-
----
-
-
-
-
-
----
-
-
----
 
 🔒 Proteggi la tua privacy e naviga senza catene.
 
@@ -73,11 +15,17 @@ Offri soluzioni pratiche per l'autonomia digitale ed economica.
 
 Il viaggio verso l’indipendenza inizia qui. Sei pronto a costruire il tuo mondo? 🚀
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Iniziamo!
 
-🔒 Proteggi la tua privacy
+## Sommario
+1. [Proteggi la tua privacy e naviga senza catene](#proteggi-la-tua-privacy-e-naviga-senza-catene)
+2. [Gestisci il tuo denaro senza intermediari](#gestisci-il-tuo-denaro-senza-intermediari)
+3. [Libera il tuo futuro con strumenti concreti](#libera-il-tuo-futuro-con-strumenti-concreti)
 
-... La privacy è il potere di rivelarsi selettivamente al mondo. (Eric Hughes - A Cypherpunk's Manifesto) 
+---
+
+## Proteggi la tua privacy e naviga senza catene
+> La privacy è il potere di rivelarsi selettivamente al mondo. (Eric Hughes - A Cypherpunk's Manifesto) 
 
 Le persone vogliono la privacy perchè è un loro diritto, non perchè stanno nascondendo qualcosa. Non dovrebbero aver bisogno di giustificarsi e questa scelta dovrebbe essere rispettata.
 
@@ -117,11 +65,17 @@ https://digidati.art/  🛠  🔍 🧠🧠 🇬🇧 🇮🇹
 
 https://www.lealternative.net/ 🛠  🔍 🧠🧠 🇬🇧 🇮🇹
 
-Br1S 
+Br1S
 
-🐈‍⬛ Risorse per orientarsi
-Risorse per disorientati in cerca della prorpia via verso la sovranità individuale
+## Gestisci il tuo denaro senza intermediari
+Spiega come gestire criptovalute, investimenti decentralizzati, o strumenti finanziari indipendenti.
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Libera il tuo futuro con strumenti concreti
+Offri soluzioni pratiche per l'autonomia digitale ed economica.
 
-💰 Gestisci il tuo denaro senza intermediari.
+---
+
+
+
+
+
