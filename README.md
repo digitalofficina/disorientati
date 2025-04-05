@@ -17,7 +17,21 @@ Questo spazio nasce per cambiare le regole del gioco: un’unica piattaforma dov
 ---
 
 ## Proteggi la tua privacy e naviga senza catene
-Qui puoi inserire informazioni su strumenti di privacy, VPN, crittografia, ecc.
+... La privacy è il potere di rivelarsi selettivamente al mondo. (Eric Hughes - A Cypherpunk's Manifesto) 
+
+Le persone vogliono la privacy perchè è un loro diritto, non perchè stanno nascondendo qualcosa. Non dovrebbero aver bisogno di giustificarsi e questa scelta dovrebbe essere rispettata.
+
+🎯 Qui un elenco siti dove puoi trovare tools e software che proteggono la tua privacy mentre navighi, comunichi, salvi i tuoi dati, giochi o lavori.
+
+Un mix di strumenti pratici ed allo stesso tempo risorse teoriche a cui attingere per accrescere la tua consapevolezza
+
+Legenda
+
+Difficoltà 🧠 (1-5)
+
+Livello Cypherpunk 🕶 (1-5)
+
+Lingua 🇮🇹 🇬🇧 🇫🇷
 
 
 
