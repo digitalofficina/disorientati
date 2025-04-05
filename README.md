@@ -54,7 +54,7 @@ https://www.privacytools.io/ 🛠  🔍 🧠🧠 🇬🇧
 PrivacyTools.io fornisce servizi, strumenti e guide sulla privacy per contrastare la sorveglianza di massa globale
 
 https://alternativeto.net/ 🛠 🧠 🇬🇧
-Fornisce alternative ai principali softare mainstream 
+Fornisce alternative ai principali software mainstream 
 
 https://github.com/ffffffff0x/Digital-Privacy 🛠  🔍 🧠🧠🧠🧠 🕶🕶🕶🕶 🇬🇧
 Una serie di tools e consigli per proteggere la propria privacy online e offline.
