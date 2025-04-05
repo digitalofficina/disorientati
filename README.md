@@ -1,11 +1,41 @@
 # disorientati
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-🚀 Riprenditi la Tua Libertà: Privacy, Finanza, Indipendenza 🏴
+# 🚀 Riprenditi la Tua Libertà: Privacy, Finanza, Indipendenza 🏴
 
 In un mondo sempre più centralizzato, la vera libertà inizia dal controllo: della tua privacy, delle tue finanze, della tua vita. Ma le informazioni sono sparse, frammentate, difficili da trovare.
 
 Questo spazio nasce per cambiare le regole del gioco: un’unica piattaforma dove raccogliamo e organizziamo le migliori risorse per chi vuole sottrarsi al controllo e costruire un sistema davvero libertario.
+
+## Benvenuto nel Progetto
+
+### 🔒 Proteggi la tua privacy e naviga senza catene.
+Scopri come difendere la tua privacy online e utilizzare strumenti sicuri.  
+[Vai alla sezione →](#proteggi-la-tua-privacy-e-naviga-senza-catene)
+
+### 💰 Gestisci il tuo denaro senza intermediari.
+Controlla le tue finanze con soluzioni decentralizzate e trasparenti.  
+[Vai alla sezione →](#gestisci-il-tuo-denaro-senza-intermediari)
+
+### 🔥 Libera il tuo futuro con strumenti concreti.
+Utilizza strumenti pratici per un futuro più libero e indipendente.  
+[Vai alla sezione →](#libera-il-tuo-futuro-con-strumenti-concreti)
+
+---
+
+### 🔒 Proteggi la tua privacy e naviga senza catene.
+Qui puoi inserire informazioni su strumenti di privacy, VPN, crittografia, ecc.
+
+### 💰 Gestisci il tuo denaro senza intermediari.
+Spiega come gestire criptovalute, investimenti decentralizzati, o strumenti finanziari indipendenti.
+
+### 🔥 Libera il tuo futuro con strumenti concreti.
+Offri soluzioni pratiche per l'autonomia digitale ed economica.
+
+---
+
+
+---
 
 🔒 Proteggi la tua privacy e naviga senza catene.
 
