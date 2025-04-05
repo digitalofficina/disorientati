@@ -43,8 +43,12 @@ Lingua 🇮🇹 🇬🇧 🇫🇷
 
 Tools  🛠  Approfondimenti 🔍
 
+https://thenewoil.org/en/  🛠 🔍 🧠 🇬🇧
+Un buon sito da dove iniziare, rivolto a persone poche esperte e che si affacciano per la prima volta al tema. Ottime indicazioni e guide veramente accessibili a tutti.
+
 https://awesome-privacy.xyz/  🛠  🧠🧠 🕶🕶 🇬🇧
-Una guida dove trovare e comparare software e servizi privacy focused alternativi ai più diffudi e centralizzati
+Una guida dove trovare e comparare software e servizi privacy focused alternativi ai più diffudi e centralizzati. 
+Un sacco di risorse utili ed interessanti, adatto a persone con un minimo di esperienza
  
 https://www.privacytools.io/ 🛠  🔍 🧠🧠 🇬🇧
 PrivacyTools.io fornisce servizi, strumenti e guide sulla privacy per contrastare la sorveglianza di massa globale
@@ -53,17 +57,17 @@ https://alternativeto.net/ 🛠 🧠 🇬🇧
 Fornisce alternative ai principali softare mainstream 
 
 https://github.com/ffffffff0x/Digital-Privacy 🛠  🔍 🧠🧠🧠🧠 🕶🕶🕶🕶 🇬🇧
-Una serie di tools e consigli per proteggere la propria privacy online e offline
+Una serie di tools e consigli per proteggere la propria privacy online e offline.
+Per utenti avanzati
 
 https://www.privacyguides.org/it/ 🛠  🔍 🧠🧠 🇬🇧 🇮🇹
 Progetto no profit gestito da volontari, trovi notizie e raccomandazioni in tema privacy e sicurezza digitale
 
-https://thenewoil.org/en/  🛠 🔍 🧠 🇬🇧
-Questo sito è rivolto a persone che sono nuove alla privacy e/o non si considerano “tecnologiche”. Questo sito è progettato per esaminare le basi di varie idee, argomenti e concetti per aiutare i lettori a sentirsi istruiti e in grado di prendere decisioni giuste per loro senza andare troppo in profondità al punto che si sentono sopraffatti guide
+https://digidati.art/  🛠  🔍 🧠 🇮🇹
+Un sito tutto in italiano creato e gestito da Art,ricco di risorse sia per principianti che per utenti più avanzati.
 
-https://digidati.art/  🛠  🔍 🧠🧠 🇬🇧 🇮🇹
-
-https://www.lealternative.net/ 🛠  🔍 🧠🧠 🇬🇧 🇮🇹
+https://www.lealternative.net/ 🛠  🔍 🧠 🇮🇹
+Alternative etiche a tutti i prodotti di Google come Gmail e Chrome, e di moltissime altre realtà mainstream come ad esempio Whatsapp. 
 
 Br1S
 
