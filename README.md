@@ -77,8 +77,6 @@ Spiega come gestire criptovalute, investimenti decentralizzati, o strumenti fina
 ## Libera il tuo futuro con strumenti concreti
 Offri soluzioni pratiche per l'autonomia digitale ed economica.
 
----
-
 
 
 
