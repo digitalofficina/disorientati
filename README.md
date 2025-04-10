@@ -3,9 +3,9 @@
 
 ## 🚀 Riprenditi la Tua Libertà: Privacy, Finanza, Indipendenza 🏴
 
-In un mondo sempre più centralizzato, la vera libertà inizia dal controllo: della tua privacy, delle tue finanze, della tua vita. Ma le informazioni sono sparse, frammentate, difficili da trovare.
+In un mondo sempre più centralizzato, la vera libertà inizia dalla consapevolezza: della tua privacy, delle tue finanze, della tua vita. Ma le informazioni sono sparse, frammentate, difficili da trovare.
 
-Questo spazio nasce per cambiare le regole del gioco: un’unica piattaforma dove raccogliamo e organizziamo le migliori risorse per chi vuole sottrarsi al controllo e costruire un sistema davvero libertario.
+Qui trovi un'unica piattaforma che raccoglie e organizza le migliori risorse per chi vuole prendere il controllo della propria vita, costruendo un futuro libero e indipendente.
 
 🔒 Proteggi la tua privacy e naviga senza catene.
 
