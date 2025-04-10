@@ -72,7 +72,10 @@ Alternative etiche a tutti i prodotti di Google come Gmail e Chrome, e di moltis
 Br1S
 
 ## Gestisci il tuo denaro senza intermediari
-Spiega come gestire criptovalute, investimenti decentralizzati, o strumenti finanziari indipendenti.
+
+Prendere il controllo delle proprie finanze senza affidarsi a intermediari è una scelta di libertà, ma anche di responsabilità. Non esistono scorciatoie: servono competenza, consapevolezza e un approccio graduale.
+
+In questo spazio troverai risorse selezionate sulla finanza tradizionale e su Bitcoin, per costruire una visione completa e prendere decisioni informate. Il percorso è tuo, noi ti forniamo gli strumenti. 🚀
 
 ## Libera il tuo futuro con strumenti concreti
 Offri soluzioni pratiche per l'autonomia digitale ed economica.
