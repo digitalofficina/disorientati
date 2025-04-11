@@ -70,7 +70,6 @@ https://www.lealternative.net/ 🛠  🔍 🧠 🇮🇹
 Alternative etiche a tutti i prodotti di Google come Gmail e Chrome, e di moltissime altre realtà mainstream come ad esempio Whatsapp. 
 
 https://www.ludlowinstitute.org/
-
 Naomi Brockwell è Presidente e Fondatrice del Ludlow Institute, un’organizzazione no-profit che si pone l'obiettivo di accrescere la libertà attraverso la tecnologia. Sul canale video, NBTV (https://www.nbtv.media/episodes), trovi contenuti educativi utili e piacevoli, hanno oltre 1 milione di abbonati su tutte le piattaforme e oltre 65 milioni di visualizzazioni dei loro video.
 
 ## Gestisci il tuo denaro senza intermediari
