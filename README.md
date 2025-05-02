@@ -87,6 +87,10 @@ Quello che è ormai in must per chi si interessa di finanza personale
 The Bull - Il tuo podcast di finanza personale
 Tutto, ma proprio tutto, quello che devi sapere su risparmio e investimenti, senza fronzoli e tecnicismi inutili ma solo l'essenziale per imparare a gestire sul serio i tuoi soldi e costruire un passo per volta un futuro finanziario migliore per te e per la tua famiglia.
 
+https://github.com/mirserena/risorsebitcoin/blob/main/README.md
+Una lista di risorse in italiano su Bitcoin.
+Personalmente non considero Bitcoin un investimento ma una "scoperta" tecnologica grazie alla quale avvicinarsi al tema monetario ed economico.
+
 ## Libera il tuo futuro con strumenti concreti
 Offri soluzioni pratiche per l'autonomia digitale ed economica.
 
