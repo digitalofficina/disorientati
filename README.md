@@ -78,6 +78,15 @@ Prendere il controllo delle proprie finanze senza affidarsi a intermediari è un
 
 In questo spazio troverai risorse selezionate sulla finanza tradizionale e su Bitcoin, per costruire una visione completa e prendere decisioni informate. Il percorso è tuo, noi ti forniamo gli strumenti. 🚀
 
+https://investitorecomune.it/
+Uno spazio dedicato a chi vuole avvicinarsi al mondo degli investimenti in modo semplice, trasparente e senza eccessivi tecnicismi. 
+Troverai strumenti pratici, guide dettagliate, consigli e un sacco di tools e calcolatori super interessanti ed utili.
+
+https://open.spotify.com/show/2cQw8L6e7XXA90K1LpZekV
+Quello che è ormai in must per chi si interessa di finanza personale
+The Bull - Il tuo podcast di finanza personale
+Tutto, ma proprio tutto, quello che devi sapere su risparmio e investimenti, senza fronzoli e tecnicismi inutili ma solo l'essenziale per imparare a gestire sul serio i tuoi soldi e costruire un passo per volta un futuro finanziario migliore per te e per la tua famiglia.
+
 ## Libera il tuo futuro con strumenti concreti
 Offri soluzioni pratiche per l'autonomia digitale ed economica.
 
